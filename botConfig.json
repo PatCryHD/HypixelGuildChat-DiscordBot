@@ -1,0 +1,10 @@
+{
+    "host": "mc.hypixel.net",
+    "port": "25565",
+    "username": "example@example.com",
+    "password": "password",
+    "discordBotToken": "discordBotToken",
+    "messageLoggingChannel" : "messageLoggingChannel",
+    "serverID": "serverID",
+    "HypixelAPIKey": "HypixelAPIKey"
+}
